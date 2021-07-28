@@ -1,4 +1,5 @@
 package io.pyasmani.ipldashboard.data;
+
 public class MatchInput {
     private String id;
     private String city;
@@ -120,5 +121,7 @@ public class MatchInput {
     public void setUmpire2(String umpire2) {
         this.umpire2 = umpire2;
     }
+
+    
 
 }

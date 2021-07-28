@@ -1,4 +1,5 @@
 package io.pyasmani.ipldashboard.model;
+
 import java.time.LocalDate;
 
 import javax.persistence.Entity;
@@ -107,4 +108,7 @@ public class Match {
     public void setUmpire2(String umpire2) {
         this.umpire2 = umpire2;
     }
+
+    
+    
 }
